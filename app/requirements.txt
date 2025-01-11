@@ -1,0 +1,14 @@
+numpy
+python-multipart
+paddlepaddle
+paddleocr
+python-dotenv
+pydantic-settings
+fastapi
+uvicorn[standard]
+ultralytics
+opencv-python-headless
+pandas
+pydantic
+loguru
+pillow
