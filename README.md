@@ -112,7 +112,7 @@ Below is an example of a license plate and its corresponding Detection:
 
 Check out this showcasing the system in action.
 
-<video controls src="new_sample.mp4" title="Title"></video>
+<video controls src="sample_data/result/new_sample.mp4" title="Title"></video>
 
 ## Project Structure
 
