@@ -110,8 +110,7 @@ Below is an example of a license plate and its corresponding Detection:
 
 ### Video Demonstration
 
-https://github.com/vishnuvskvkl/Automatic-License-Plate-Detection/blob/8888aacbdf5494ad1f57ac875b819d704e1149f8/README.md#L113
-
+<video controls src="https://github.com/vishnuvskvkl/Automatic-License-Plate-Detection/blob/06cad32af737a1bc6ff80987a894f1389fd1a293/sample_data/result/new_sample.mp4" title="https://github.com/vishnuvskvkl/Automatic-License-Plate-Detection/blob/06cad32af737a1bc6ff80987a894f1389fd1a293/sample_data/result/new_sample.mp4"></video>
 
 ## Project Structure
 
