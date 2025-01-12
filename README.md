@@ -32,7 +32,7 @@ Make sure you have the following installed before running the project:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/automatic-license-plate-detection.git
+   git clone https://github.com/vishnuvskvkl/Automatic-License-Plate-Detection.git
    cd automatic-license-plate-detection
    ```
 
@@ -110,8 +110,7 @@ Below is an example of a license plate and its corresponding Detection:
 
 ### Video Demonstration
 
-Check out this showcasing the system in action.
-
+https://github.com/vishnuvskvkl/Automatic-License-Plate-Detection/blob/8888aacbdf5494ad1f57ac875b819d704e1149f8/README.md#L113
 
 
 ## Project Structure
